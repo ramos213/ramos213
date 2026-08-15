@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">Meu nome é Samuel, sou Desenvolvedor Fullstack em Formação</p>
+<p data-importer="text" align="left">Meu nome é Samuel, Sou Desenvolvedor Fullstack em Formação</p>
 
 ###
 
