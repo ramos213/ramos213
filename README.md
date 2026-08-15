@@ -10,11 +10,11 @@
 
 ###
 
-<p data-importer="text" align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>💻 Desenvolvedor Full Stack em formação<br>🚀 Interessado em desenvolvimento web, APIs e banco de dados<br><br>Atualmente estou aprimorando meus conhecimentos em:<br>• JavaScript<br>• React.js<br>• Node.js<br>• SQL<br><br>Gosto de transformar ideias em projetos práticos e estou sempre<br>buscando aprender novas tecnologias e melhorar minhas habilidades<br>em desenvolvimento de software.<br><br>🎯 Objetivo: crescer profissionalmente como desenvolvedor Full Stack<br>e construir soluções eficientes, organizadas e escaláveis.</p>
+<p data-importer="text" align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>💻 Desenvolvedor Full Stack em formação<br>🚀 Interessado em desenvolvimento web, APIs e banco de dados<br><br>Atualmente estou aprimorando meus conhecimentos em:<br>• JavaScript<br>• React.js<br>• Node.js<br>• SQL<br>• Prisma<br>• MongoDB<br>• Next<br>• Tailwind<br>• Docker<br><br>Gosto de transformar ideias em projetos práticos e estou sempre<br>buscando aprender novas tecnologias e melhorar minhas habilidades<br>em desenvolvimento de software.<br><br>🎯 Objetivo: crescer profissionalmente como desenvolvedor Full Stack<br>e construir soluções eficientes, organizadas e escaláveis.</p>
 
 ###
 
-<h2 data-importer="text" align="left">I code with</h2>
+<h2 data-importer="text" align="left"></h2>
 
 ###
 
@@ -36,6 +36,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
 ###
