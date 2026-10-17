@@ -1,16 +1,16 @@
-<h1 data-importer="text" align="left">Olá 👋 Como vai?</h1>
+<h1 data-importer="text" align="left">Hello 👋 How are you?</h1>
 
 ###
 
-<p data-importer="text" align="left">Meu nome é Samuel, Sou Desenvolvedor Fullstack em Formação</p>
+<p data-importer="text" align="left">My name is Samuel, and I am a Fullstack Developer.</p>
 
 ###
 
-<h2 data-importer="text" align="left">👨‍💻 Sobre mim</h2>
+<h2 data-importer="text" align="left">👨‍💻 About me</h2>
 
 ###
 
-<p data-importer="text" align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>💻 Desenvolvedor Full Stack em formação<br>🚀 Interessado em desenvolvimento web, APIs e banco de dados<br><br>Atualmente estou aprimorando meus conhecimentos em:<br>• JavaScript<br>• React.js<br>• Node.js<br>• SQL<br>• Prisma<br>• MongoDB<br>• Next<br>• Tailwind<br>• Docker<br><br>Gosto de transformar ideias em projetos práticos e estou sempre<br>buscando aprender novas tecnologias e melhorar minhas habilidades<br>em desenvolvimento de software.<br><br>🎯 Objetivo: crescer profissionalmente como desenvolvedor Full Stack<br>e construir soluções eficientes, organizadas e escaláveis.</p>
+<p data-importer="text" align="left">🎓 Systems Analysis and Development Student<br>💻 Aspiring Full Stack Developer<br>🚀 Interested in web development, APIs, and databases<br><br>I am currently honing my skills in:<br>• JavaScript<br>• React.js<br>• Node.js<br>• SQL<br>• Prisma<br>• MongoDB<br>• Next.js<br>• Tailwind CSS<br>• Docker<br><br>I enjoy turning ideas into practical projects and am always<br>looking to learn new technologies and improve my software<br>development skills.<br><br>🎯 Goal: To grow professionally as a Full Stack Developer<br>and build efficient, well-organized, and scalable solutions.</p>
 
 ###
 
